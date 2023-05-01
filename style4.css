@@ -1,0 +1,114 @@
+
+#div1 {
+    padding:15px;
+    margin: 15px;
+    width: 10%;
+    text-align: center;
+    color: white;
+    display: inline-block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 30px;
+    background-color: rgb(11, 51, 16);
+}
+#div2 {
+    padding:15px;
+    margin: 15px;
+    width: 10%;
+    text-align: center;
+    color: white;
+    display: inline-block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 30px;
+    background-color: rgb(11, 51, 16);
+}
+#div3 {
+    padding:15px;
+    margin: 15px;
+    width: 10%;
+    text-align: center;
+    color: white;
+    display: inline-block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 30px;
+    background-color: rgb(11, 51, 16);
+}
+#div4 {
+    padding:15px;
+    margin: 15px;
+    width: 10%;
+    text-align: center;
+    color: white;
+    display: inline-block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 30px;
+    background-color: rgb(11, 51, 16);
+}
+#div5 {
+    padding:15px;
+    margin: 15px;
+    width: 10%;
+    text-align: center;
+    color: white;
+    display: inline-block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 30px;
+    background-color: rgb(11, 51, 16);
+}
+#div6 {
+    padding:15px;
+    margin: 15px;
+    width: 10%;
+    text-align: center;
+    color: white;
+    display: inline-block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 30px;
+    background-color: rgb(11, 51, 16);
+}
+
+ul {
+    background-color:navy;
+    list-style: none;
+    text-align: center;
+    border-radius: 10px;
+}
+li{
+    display: inline-block;
+    padding: 10px;
+
+}
+li:hover{
+    background-color: paleturquoise;
+    border-radius: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: papayawhip;
+}
+#lo {
+    padding:15px;
+    margin: 15px;
+    width: 10%;
+    text-align: center;
+    color: white;
+    display: inline-block;
+    
+}
+#lk {
+    padding:15px;
+    margin: 15px;
+    width: 10%;
+    text-align: center;
+    color: white;
+    display: inline-block;
+
+}
+#add {
+    padding:15px;
+    margin: 15px;
+    width: 10%;
+    text-align: center;
+    color: white;
+    display: inline-block;
+}

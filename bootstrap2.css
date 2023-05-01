@@ -1,0 +1,151 @@
+body {
+    font-family: cursive;
+
+}
+
+#title {
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+.meet {
+
+    font-family: cursive;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+/* navigation bar */
+.navbar {
+    padding-bottom: 0 0 4.5rem;
+}
+
+.navbar-brand {
+    font-family: Ubuntu;
+    font-size: 2rem;
+    font-weight: bolder;
+    padding: ;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/*download button*/
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+
+/*title-img*/
+.title-img {
+    width: 50%;
+    transform: rotate(25deg);
+    position: absolute;
+
+}
+
+/*feature section*/
+#features {
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
+
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+h3 {}
+
+p {
+    color: #8f8f8f;
+    margin-top: 10px;
+}
+
+.icon {
+    margin-bottom: 1rem;
+    color: #ff4c68;
+}
+
+.icon:hover {
+    color: #76464d;
+}
+
+#testimonials {
+    text-align: center;
+    color: #fff;
+    background-color: #ff4c68;
+}
+
+.carousel-item {
+    padding: 7% 5%;
+
+}
+
+/*.h3-fe {
+    text-align: center;
+    width: 50%;
+    font-size: 3rem;
+    line-height: 1.5rem;
+}*/
+
+.testimonials-img {
+
+    border-radius: 50%;
+
+}
+
+#press {
+    background-color: #ff4c68;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+#pricing {
+    padding: 100px;
+    text-align: center;
+}
+
+.pricing-col {
+    padding: 3% 2%;
+}
+
+@media (max-width:1028px) {
+    #title {
+        text-align: center;
+    }
+
+    .title-img {
+        position: static;
+        transform: rotate(0);
+    }
+}
+
+#cta {
+    background-color: #ff4c68;
+    text-align: center;
+}
+
+.call {
+    padding: 20px 40px;
+    font-family: monospace;
+    font-weight: bold;
+    color: #fff;
+}

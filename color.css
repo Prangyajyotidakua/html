@@ -1,0 +1,53 @@
+.a,
+.b,
+.c,
+.d {
+    height: 150px;
+    width: 150px;
+    margin: 10px;
+    text-align: center;
+
+}
+
+.a {
+    background-color: rgb(50, 52, 50);
+    position: absolute;
+    bottom: 0px;
+}
+
+.b {
+    background-color: rgba(24, 90, 213, 0.5);
+    position: sticky;
+    top: 0px;
+    right: 0px;
+}
+
+.c {
+    background-color: rgb(70, 160, 25);
+    position: fixed;
+    top: 0px;
+    right: 0px;
+}
+
+.d {
+    background-color: rgb(120, 16, 100);
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+
+.box {
+    position: relative;
+    background-color: coral;
+    height: 500px;
+    width: 500px;
+}
+
+h1[aria-multiline="false"] {
+    color: red;
+}
+
+.box2 div {
+    position: relative;
+    border: 5px solid black;
+}

@@ -1,0 +1,46 @@
+.first {
+ height: 200px;
+ width: 200px;
+ background-color: chartreuse;
+ display:inline-block;
+ position: absolute;
+ left: 0px;
+}
+.second { 
+    height: 200px;
+    width: 200px;
+    background-color: rgb(161, 54, 104);
+    display:inline-block;
+ position: fixed;
+ left: 50%;
+}
+.third {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(77, 48, 145);
+    display:inline-block;
+    position: absolute;
+    right: 0px;
+
+}
+.heading {
+    margin-top:200px ;
+    text-align: center;
+  font-family: vardana,sans-serif;
+
+}
+h1:hover{
+    background-color: crimson;
+}
+img {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+p {
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    position: absolute;
+
+}

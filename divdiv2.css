@@ -1,0 +1,45 @@
+div {
+    height: 350px;
+    width: 350px;
+    display: inline-block;
+}
+.top {
+    background-color:;
+    position: relative;
+    top: 70px;
+    left: 30px;
+    text-align: center;
+}
+h2 {
+    color: white;
+}
+h1 {
+    color:white ;
+    position: relative;
+    top: 40px;
+    left: 35px;
+}
+.middle {
+ background-color:;
+ position: relative;
+ top: ;
+ bottom:280px ;
+ left: 400px;
+
+}
+p {
+ color: white;
+ width: 70%;
+ text-align: center;
+ position: relative;
+ top: 20px;
+ left: 35px;
+ line-height: 1;
+}
+.planet {
+    border-radius: 50%;
+    width: 50%;
+    position: relative;
+    top:20px ;
+    left: 10px;
+}

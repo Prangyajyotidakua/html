@@ -1,0 +1,19 @@
+div {
+    text-align: center;
+}
+
+.div {
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    margin: 10px;
+    border: 5px dotted black;
+}
+
+#st {
+    background-color: coral;
+}
+
+#nd {
+    background-color: chartreuse;
+}

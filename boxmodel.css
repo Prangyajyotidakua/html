@@ -1,0 +1,33 @@
+body {
+    margin: 0px;
+}
+elememt.style
+div {
+  
+    display: block;
+    
+}
+ .top {
+    width: 200px;
+    height: 200px;
+    
+     border: solid 10px;
+  background-color: grey;
+  padding: 20px;
+}
+.middle {
+    width: 200px;
+    height: 200px;
+    border: solid 10px;
+   background-color: red ;
+
+   margin-left: 260px;
+}
+.buttom {
+    width: 200px;
+    height: 200px;
+    border: solid 10px;
+   background-color: blue ;
+
+   margin-left: 480px;
+} 

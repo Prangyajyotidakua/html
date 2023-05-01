@@ -1,0 +1,46 @@
+.cbox {
+    border: 5px solid;
+}
+
+.arow {
+    border: 5px solid yellow;
+}
+
+.adiv {
+    border: 5px solid red;
+    background-color: rgb(68, 92, 92);
+
+    height: 60px;
+}
+
+.bdiv {
+    border: 5px solid grey;
+    background-color: rgb(42, 94, 94);
+    height: 60px;
+}
+
+.cdiv {
+    border: 5px solid chocolate;
+    background-color: rgb(42, 94, 94);
+
+    height: 60px;
+}
+
+.ddiv {
+    border: 5px solid rgb(40, 177, 184);
+    background-color: rgb(42, 55, 55);
+
+    height: 60px;
+}
+
+.ediv {
+    border: 5px solid rgb(202, 20, 160);
+    background-color: rgb(42, 55, 55);
+
+    height: 60px;
+}
+
+.fdiv {
+    border: 5px solid rgb(206, 200, 30);
+    height: 60px;
+}

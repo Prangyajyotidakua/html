@@ -1,0 +1,55 @@
+h1,
+h3 {
+    text-align: center;
+    color: white;
+}
+
+p {
+    color: rgb(91, 103, 104);
+}
+
+h4,
+li {
+    color: rgb(9, 6, 86);
+}
+
+span {
+    background-color: rgb(180, 134, 93);
+    color: rgb(9, 6, 86);
+}
+
+
+
+hr {
+
+    border: none;
+    height: 2px;
+    background: rgb(9, 6, 86);
+    font-weight: bolder;
+}
+
+.box {
+    padding-top: 20px;
+    background-color: rgb(180, 134, 93);
+}
+
+.inner {
+    height: 100px;
+    width: 300px;
+    text-align: left;
+}
+
+.middle {
+    padding-left: 50px;
+
+}
+
+#a,
+#b,
+#c,
+#d {
+    position: relative;
+    left: 50%;
+    bottom: 120px;
+
+}

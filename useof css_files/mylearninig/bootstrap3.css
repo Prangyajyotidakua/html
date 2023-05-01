@@ -1,0 +1,23 @@
+.container .title {
+    color: red;
+}
+
+.container-fluid .title {
+    color: green;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+    text-align: center;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+h1#lisa {
+    text-align: left;
+    font-style: calc(10);
+    color: blue;
+}

@@ -1,0 +1,95 @@
+body {
+  }
+.top {
+    background-color: rgb(67, 126, 126);
+}
+hr {
+   border-bottom: none;
+   
+    border:dotted #EAF6F6 6px ;
+}
+.pro {
+    font-family: 'Montserrat', sans-serif;
+}
+.myname {
+    font-family: 'Handlee', cursive;
+}
+
+.mountain {
+    height: 500px;
+    width: 500px;
+    position: relative;
+    left: 33%;
+    top:0px ;
+    
+}
+.topcloud {
+    height: 100px;
+    width: 200px;
+    background-color:rgb(108, 143, 206) ;
+    position: absolute;
+    left: 420px;
+    top:250px ;
+
+}
+.buttomcloud {
+    height: 100px;
+    width: 200px;
+    background-color:rgb(50, 74, 119) ;
+    position: absolute;
+    left: 750px;
+    top:170px ;
+
+}
+h1 {
+    text-align: center;
+    
+}
+.momo {
+    
+    border-radius: 50%;
+}
+.momodiv {
+
+    position: relative;
+    left: 16rem;
+    width: 50%;
+    margin: auto 100px auto;
+    text-align: center;
+    line-height: 2;
+}
+.momodiv2 {
+
+    position: relative;
+    left: 16rem;
+    width: 50%;
+    margin: auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.momo2{
+    border-radius: 50%;
+    width:25%;
+    padding: 30px;
+    float: left;
+
+}
+.momo3{
+    border-radius: 50%;
+    width:25%;
+    padding: 30px;
+    float: right;
+
+}
+.paragraph {
+    clear: right;
+    width: 20%;
+    margin: auto;
+}
+.button1 {
+ background-color: blue;
+ color: cornsilk;
+ border-radius: 25%;
+ position: relative;
+ left:33%
+}

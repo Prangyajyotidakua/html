@@ -1,0 +1,33 @@
+body {
+    color: white;
+}
+a {
+    padding: 20px;
+    text-decoration: none;
+    color: white;
+}
+.planet {
+    border-radius: 50%;
+}
+.parent {
+    display: inline-block;
+}
+.top {
+   height: 350px;
+   width: 350px;
+   position:relative ;
+
+}
+.buttom {
+    height: 390px;
+    width: 390px;
+    display: inline-block;
+   
+}
+p {
+    width: ;
+    float: right;
+}
+aside {
+ float: right;
+}
