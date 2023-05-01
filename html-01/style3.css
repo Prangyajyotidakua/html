@@ -1,0 +1,68 @@
+div {
+    padding:15px;
+    margin: 15px;
+    width: 12%;
+    text-align: center;
+    color: white;
+    display: inline-block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 30px;
+    
+}
+#div1 {  
+    background-color: rgb(11, 51, 16);
+}
+#div2 {
+    background-color: rgb(12, 56, 23);
+}
+#div3 {
+  background-color: rgb(10, 56, 28);
+}
+#div4 {
+    background-color: rgb(10, 49, 28);
+ }
+#div5 {
+    background-color: rgb(10, 49, 28);  
+}
+#div6 {
+  
+    background-color: rgb(10, 49, 28);
+}
+#fm1 {
+  background-image: linear-gradient(90deg,rgb(193, 199, 190), rgba(44, 10, 38, 0.877),rgba(163, 39, 122, 0.877));
+}
+frame {
+    background-image: linear-gradient(90deg,rgb(193, 199, 190), rgba(44, 10, 38, 0.877),rgba(163, 39, 122, 0.877));
+
+}
+img {
+    padding: center;
+    border-radius: 40px;
+    padding:15px;
+    margin: 15px;
+    width: 12%;
+    text-align: center;
+    color: white;
+    display: inline-block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ul {
+    background-color:navy;
+    list-style: none;
+    text-align: center;
+    border-radius: 10px;
+}
+li{
+    display: inline-block;
+    padding: 10px;
+
+}
+li:hover{
+    background-color: paleturquoise;
+    border-radius: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: papayawhip;
+}

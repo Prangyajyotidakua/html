@@ -1,0 +1,26 @@
+div {
+    padding:15px;
+    margin: 15px;
+    width: 27%;
+    text-align: center;
+    color: white;
+    display: inline-block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#div1 {
+    background-image: linear-gradient(90deg,rgb(140, 116, 206), rgba(39, 32, 78, 0.877));
+}
+#div2 {
+    background-image: linear-gradient(90deg,rgb(112, 51, 109), rgba(10, 38, 54, 0.877));
+}
+#div3 {
+    background-image: linear-gradient(90deg,rgb(76, 122, 49), rgba(163, 39, 122, 0.877));
+}
+ button {
+     background-image: linear-gradient(90deg,rgb(167, 113, 44), rgba(163, 68, 39, 0.877));
+     color: white;
+     width: 90px;
+     height: 30px;
+     border: wheat;
+     border-radius: 20px;
+ }

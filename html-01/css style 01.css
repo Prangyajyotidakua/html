@@ -1,0 +1,28 @@
+body {
+    background-color: powderblue;
+}
+hr{
+    background-color: chartreuse;
+    border-style:  none ;
+    border-top-style: dotted;
+    border-color: rgb(64, 110, 87);
+    border-width:5px ;
+    width: 10%;
+    
+}
+h1:hover { 
+    background-color: rgb(255, 0, 149);
+
+    position: center ;
+}      
+          
+img:hover {
+    background-color: rgb(160, 55, 99);
+
+}
+.clr{
+    border-radius: 50%;
+}
+
+
+
